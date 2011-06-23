@@ -14,7 +14,7 @@ Installation
 Usage
 -----
 
-You can do an authroize and capture on a card in just three lines from your controler:
+You can do an authroize and capture on a card in just three lines from your controller:
 
 	$this->load->library('authorize_net');
 	$this->authorize_net->setData($credit_card_data);
@@ -22,5 +22,5 @@ You can do an authroize and capture on a card in just three lines from your cont
 
 For a full example with more values and error handling, check out /application/controllers/example.php
 
-Enjoy,
-SammyK
+Enjoy!
+[SammyK](http://sammyk.me/)
