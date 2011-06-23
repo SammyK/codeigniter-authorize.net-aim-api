@@ -8,8 +8,8 @@ Requires [Philip Sturgeon's](http://philsturgeon.co.uk/) [cURL lib](http://getsp
 Installation
 ------------
 
-1. Copy the /application/config/authorize_net.php file into your application's config/ folder and make sure to change the values!
-2. Copy /application/libraries/Authorize_net.php and /application/libraries/Curl.php into your application's libraries/ folder.
+1. Copy the /config/authorize_net.php file into your application's config/ folder and make sure to change the values!
+2. Copy /libraries/Authorize_net.php and /libraries/Curl.php into your application's libraries/ folder.
 
 Usage
 -----
@@ -20,7 +20,7 @@ You can do an authorize and capture on a card in just three lines from your cont
 	$this->authorize_net->setData($credit_card_data);
 	$this->authorize_net->authorizeAndCapture();
 
-For a full example with more values and error handling, check out /application/controllers/example.php
+For a full example with more values and error handling, check out /controllers/example.php
 
 Enjoy!
 [SammyK](http://sammyk.me/)
