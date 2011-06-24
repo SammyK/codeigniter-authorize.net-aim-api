@@ -9,7 +9,7 @@
  * @subpackage    	Libraries
  * @category    	Libraries
  * @author		SammyK (http://sammyk.me/)
- * @link		https://github.com/SammyK/Codeigniter-Authorize.NET-AIM
+ * @link		https://github.com/SammyK/codeigniter-authorize.net-aim-api
  */
 class Authorize_net
 {
