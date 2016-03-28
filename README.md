@@ -1,5 +1,6 @@
-Codeigniter Authorize.NET AIM Integration
-=========================================
+# [INACTIVE] Codeigniter Authorize.NET AIM Integration
+
+> *Warning:* This repo is no longer being mantianed. Use at your own risk.
 
 A quick way to add Authorize.NET AIM integration with just 3 lines of code.
 
